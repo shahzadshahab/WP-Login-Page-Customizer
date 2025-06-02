@@ -1,4 +1,5 @@
 === Custom Admin Login Branding ===
+
 Contributors: Shahzad Shahab
 Tags: login, branding, admin, logo, background
 Requires at least: 5.0
